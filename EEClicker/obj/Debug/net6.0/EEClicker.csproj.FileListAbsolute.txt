@@ -1,0 +1,15 @@
+C:\GitHub\ee_clicker\EEClicker\obj\Debug\net6.0\EEClicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\ee_clicker\EEClicker\obj\Debug\net6.0\EEClicker.AssemblyInfoInputs.cache
+C:\GitHub\ee_clicker\EEClicker\obj\Debug\net6.0\EEClicker.AssemblyInfo.cs
+C:\GitHub\ee_clicker\EEClicker\obj\Debug\net6.0\EEClicker.csproj.CoreCompileInputs.cache
+C:\GitHub\ee_clicker\EEClicker\bin\Debug\net6.0\EEClicker.exe
+C:\GitHub\ee_clicker\EEClicker\bin\Debug\net6.0\EEClicker.deps.json
+C:\GitHub\ee_clicker\EEClicker\bin\Debug\net6.0\EEClicker.runtimeconfig.json
+C:\GitHub\ee_clicker\EEClicker\bin\Debug\net6.0\EEClicker.dll
+C:\GitHub\ee_clicker\EEClicker\bin\Debug\net6.0\ref\EEClicker.dll
+C:\GitHub\ee_clicker\EEClicker\bin\Debug\net6.0\EEClicker.pdb
+C:\GitHub\ee_clicker\EEClicker\obj\Debug\net6.0\EEClicker.dll
+C:\GitHub\ee_clicker\EEClicker\obj\Debug\net6.0\ref\EEClicker.dll
+C:\GitHub\ee_clicker\EEClicker\obj\Debug\net6.0\EEClicker.pdb
+C:\GitHub\ee_clicker\EEClicker\obj\Debug\net6.0\EEClicker.genruntimeconfig.cache
+C:\GitHub\ee_clicker\EEClicker\obj\Debug\net6.0\EEClicker.csproj.AssemblyReference.cache

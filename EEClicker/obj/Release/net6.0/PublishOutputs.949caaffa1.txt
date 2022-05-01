@@ -1,0 +1,5 @@
+C:\GitHub\ee_clicker\EEClicker\bin\Release\net6.0\publish\EEClicker.exe
+C:\GitHub\ee_clicker\EEClicker\bin\Release\net6.0\publish\EEClicker.dll
+C:\GitHub\ee_clicker\EEClicker\bin\Release\net6.0\publish\EEClicker.deps.json
+C:\GitHub\ee_clicker\EEClicker\bin\Release\net6.0\publish\EEClicker.runtimeconfig.json
+C:\GitHub\ee_clicker\EEClicker\bin\Release\net6.0\publish\EEClicker.pdb
